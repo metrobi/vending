@@ -1,2 +1,2 @@
 # vending
-Vending and aautomation
+Vending and automation
